@@ -1,1 +1,1 @@
-# git-dosa 
+# Dosa shop
