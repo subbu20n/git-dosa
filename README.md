@@ -7,11 +7,12 @@
 # karam dosa 
 * Dosa batter 
 * karam 
-* Erra karam 
+* Erra karam
 
-# Egg dosa 
-* Dosa batter 
-* 1/2Eggs,karam,oil 
+# Egg Dosa 
+* Dosa batter
+* 1/2Eggs,karam,oil
+
 
 # Panner-dosa 
 * Dosa batter 
@@ -21,3 +22,4 @@
 * ghee   
 * chicken masala 
 * gharam masala 
+
