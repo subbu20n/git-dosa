@@ -19,4 +19,5 @@
 * masala curry 
 * kaju paste  
 * ghee   
-* chicken masala
+* chicken masala 
+* gharam masala 
