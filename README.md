@@ -13,3 +13,6 @@
 * Dosa batter
 * 1/2Eggs,karam,oil
 
+# Ghee karam dosa
+* dosa batter 
+* ghee 
