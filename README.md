@@ -16,3 +16,4 @@
 # Ghee karam dosa
 * dosa batter 
 * ghee 
+* oil 
