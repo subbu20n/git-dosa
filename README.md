@@ -20,6 +20,6 @@
 * masala curry 
 * kaju paste  
 * ghee   
-* chicken masala 
-* gharam masala 
+* light oil 
+ 
 
