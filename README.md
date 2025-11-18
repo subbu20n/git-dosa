@@ -13,3 +13,13 @@
 * Dosa batter
 * 1/2Eggs,karam,oil
 
+
+# Panner-dosa 
+* Dosa batter 
+* panner 
+* masala curry 
+* kaju paste  
+* ghee   
+* light oil 
+ 
+
